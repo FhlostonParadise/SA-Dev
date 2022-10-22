@@ -5,3 +5,9 @@
 // This file is intentionally blank
 // Use this file to override SCSS within the project, or to add new SCSS
 // for creating your own CSS components
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('/assets/fonts/playfair-display/PlayfairDisplay-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
